@@ -1,0 +1,64 @@
+﻿h1 {
+  color:#f8f9fa;
+}
+
+.theme_color {
+  color:#f8f9fa;
+}
+
+.theme_bg_color{
+  background-color:#f8f9fa;
+}
+
+.font_color{
+  color: #000;
+}
+
+.bg_color{
+  background-color: #000;
+}
+
+.navbar {
+  background-color:#f8f9fa;
+}
+
+.footer{
+  background-color:#f8f9fa;
+}
+
+#homes .main-img-2 {
+  border:5px solid #f8f9fa;
+}
+
+.custom-btn-one {
+ border-color: #f8f9fa;
+}
+
+#home-sec .main-img {     
+ border:5px solid #f8f9fa;
+}
+#home-sec .main-img-2 {
+ border:5px solid #f8f9fa;
+}
+
+.board .tab-content i {
+  color: #f8f9fa;
+}
+
+#testimonial-main img {
+  border:3px solid #f8f9fa;
+}
+.portfolio-sec-wrap .overlay {
+  background-color: #f8f9fa;
+}
+
+#footer-sec h3{
+  color: #f8f9fa;
+}
+#footer-sec i{
+  color: #f8f9fa;
+}
+a.scrollup {
+  background: #f8f9fa;
+
+}
